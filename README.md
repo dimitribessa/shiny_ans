@@ -5,7 +5,7 @@
 
 <img src="image.png" alt="Exemplo imagem">
 
-> A shiny app built using [Rhino](https://appsilon.github.io/rhino/index.html) framework and [*soft ui*](https://github.com/creativetimofficial/soft-ui-dashboard) template from Creative Tim's. The data used here was obtained from brazilian healthcare insurance regulatory agency (ANS), and can be obtained [here](https://dadosabertos.ans.gov.br/FTP/Base_de_dados/Microdados/)
+> A shiny app built using [Rhino](https://appsilon.github.io/rhino/index.html) framework and [*soft ui*](https://github.com/creativetimofficial/soft-ui-dashboard) template from Creative Tim's. The data used here was obtained from brazilian healthcare insurance regulatory agency (ANS), and can be obtained [here](https://dadosabertos.ans.gov.br/FTP/Base_de_dados/Microdados/). You can view a live example by following this [link](http://142.93.67.223/shiny/ans_beneficiario/).
 
 ### TODO's
 
